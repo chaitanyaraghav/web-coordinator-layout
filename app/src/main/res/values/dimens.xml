@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="peek_height_normal">100dp</dimen>
+    <dimen name="peek_height_scrolled">50dp</dimen>
+    <dimen name="fab_bottom_margin">120dp</dimen>
+    <dimen name="fab_margin_right">10dp</dimen>
+    <dimen name="elevation_high">5dp</dimen>
+
+</resources>
